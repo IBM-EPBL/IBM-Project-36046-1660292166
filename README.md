@@ -2,11 +2,12 @@
 
 
 # IBM-Project-36046-1660292166
-Web Phishing Detection
+
+Web Phishing Detection ❤️
 
 Team ID : PNT2022TMID45373
 
-Team Members :
+Team Members :😁
    
               1)Vijayaprabu
    
@@ -16,3 +17,21 @@ Team Members :
    
               4)Manimuthu
 
+
+Project Design & Planning :😉
+
+              Ideation Phase
+              
+              Project Design Phase I
+              
+              Project Design Phase II
+              
+              Project Planning
+
+Tech Stack :👍
+             
+             Frontend: Html, Css
+
+             Backend: Python, Flask 
+
+             Database: IBM DB2
