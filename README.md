@@ -35,3 +35,11 @@ Tech Stack :👍
              Backend: Python, Flask 
 
              Database: IBM DB2
+             
+             
+Feed back:😊
+
+              If you have any feedback, reach out to us at vijayaprabu005@gmail.com
+              
+              ![thank-you-messages-card](https://user-images.githubusercontent.com/113415196/202532488-6f3b84c1-f597-4b67-bb66-0ad28f2505eb.jpg)
+
