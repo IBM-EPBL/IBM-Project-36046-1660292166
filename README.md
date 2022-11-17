@@ -30,7 +30,7 @@ Project Design & Planning :😉
 
 Tech Stack :👍
              
-             Frontend: Html, Css
+Frontend: Html, Css
 
              Backend: Python, Flask 
 
