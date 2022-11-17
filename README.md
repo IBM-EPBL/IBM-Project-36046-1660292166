@@ -1,4 +1,5 @@
-![AdobeStock_204077439-1000x500](https://user-images.githubusercontent.com/113415196/202527460-f5153683-9f81-4fdf-97ea-16c407354d35.jpg)
+![2017_F_UFSAIT_Phishing_Meme](https://user-images.githubusercontent.com/113415196/202528262-afc396f5-c1f7-4f7a-9f5a-1fa57fd3ad9a.png)
+
 
 # IBM-Project-36046-1660292166
 Web Phishing Detection
