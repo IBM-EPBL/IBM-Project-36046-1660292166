@@ -20,13 +20,13 @@ Team Members :😁
 
 Project Design & Planning :😉
 
-              Ideation Phase
+Ideation Phase
               
-              Project Design Phase I
+Project Design Phase I
               
-              Project Design Phase II
+Project Design Phase II
               
-              Project Planning
+Project Planning
 
 Tech Stack :👍
              
