@@ -59,3 +59,16 @@ Web phishing aims to steal private information, such as usernames, passwords, an
 ## [Project Planning](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
 * [Prepare Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Prepare%20Milestone%20%26%20Activity%20List.pdf)
 * [Sprint Delivery plan](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20plan.pdf)
+
+## Tech Stack : 💥
+     
+     * Frontend: Html, Css  
+     * Backend: Python, Flask 
+     * Database: IBM DB2
+     
+## Feed back:😊 
+      
+      If you have any feedback, reach out to us at vijayaprabu005@gmail.com
+      
+      
+![Thank you](https://user-images.githubusercontent.com/113415196/202610704-4129a392-3112-440b-8a26-eef630ce4f2e.jpg)
