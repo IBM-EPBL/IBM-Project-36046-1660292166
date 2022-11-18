@@ -35,4 +35,4 @@ Web phishing aims to steal private information, such as usernames, passwords, an
 
 
 #  [Project Design & Planning](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/tree/main/Project%20Design%20%26%20Planning)
-## [Ideation Phase](README.md)
+## [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
