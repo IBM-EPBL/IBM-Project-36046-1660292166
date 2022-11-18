@@ -21,7 +21,7 @@
 
 There are a number of users who purchase products online and make payments through e-banking. There are e-banking websites that ask users to provide sensitive data such as username, password & credit card details, etc., often for malicious reasons. This type of e-banking website is known as a phishing website. Web service is one of the key communications software services for the Internet. Web phishing is one of many security threats to web services on the Internet.
 
-## ****Common threats of web phishing**** : 
+## ****Common threats of web phishing**** : :woozy_face:
 
 Web phishing aims to steal private information, such as usernames, passwords, and credit card details, by way of impersonating a
 
@@ -62,13 +62,13 @@ Web phishing aims to steal private information, such as usernames, passwords, an
 
 ## Tech Stack : 💥
      
-     * Frontend: Html, Css  
-     * Backend: Python, Flask 
-     * Database: IBM DB2
+ * Frontend: Html, Css  
+ * Backend: Python, Flask 
+ * Database: IBM DB2
      
-## Feed back:😊 
+## Feed back: 😊 
       
-      If you have any feedback, reach out to us at vijayaprabu005@gmail.com
+  If you have any feedback, reach out to us at - vijayaprabu005@gmail.com
       
       
 ![Thank you](https://user-images.githubusercontent.com/113415196/202610704-4129a392-3112-440b-8a26-eef630ce4f2e.jpg)
