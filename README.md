@@ -1,4 +1,4 @@
-![AdobeStock_204077439-1000x500](https://user-images.githubusercontent.com/113415196/202528584-9fec8212-c4db-4ef4-a6b5-5ba98aecb799.jpg)
+![Online-Scams](https://user-images.githubusercontent.com/113415196/202610119-b439af7c-3a48-4c0e-aed6-cc39254a493f.jpg)
 
 
 # IBM-Project-36046-1660292166
