@@ -7,7 +7,7 @@
 
 ## Team ID : PNT2022TMID45373
 
-## ****Team Members**** : 	:sunglasses:
+## ****Team Members**** : 	:1st_place_medal:
    
    * Vijayaprabu (Team Lead)
    
@@ -17,7 +17,7 @@
    
    * Manimuthu
 
-## ****Project Description**** :
+## ****Project Description**** : :dart:
 
 There are a number of users who purchase products online and make payments through e-banking. There are e-banking websites that ask users to provide sensitive data such as username, password & credit card details, etc., often for malicious reasons. This type of e-banking website is known as a phishing website. Web service is one of the key communications software services for the Internet. Web phishing is one of many security threats to web services on the Internet.
 
@@ -34,7 +34,7 @@ Web phishing aims to steal private information, such as usernames, passwords, an
    * Financial loss
 
 
-#  [Project Design & Planning](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/tree/main/Project%20Design%20%26%20Planning)
+#  [Project Design & Planning](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/tree/main/Project%20Design%20%26%20Planning) :anchor:
 
 ## [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 
