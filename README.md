@@ -55,4 +55,7 @@ Web phishing aims to steal private information, such as usernames, passwords, an
 * [Data Flow Diagrams and User Stories](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Data%20Flow%20Diagrams%20and%20User%20Stories.pdf)
 * [Functional Requirement](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Functional%20Requirement.pdf)
 * [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Architecture.pdf)
-* 
+
+## [Project Planning](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
+* [Prepare Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Prepare%20Milestone%20%26%20Activity%20List.pdf)
+* [Sprint Delivery plan](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20plan.pdf)
