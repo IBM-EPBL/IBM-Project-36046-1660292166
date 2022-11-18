@@ -32,3 +32,6 @@ Web phishing aims to steal private information, such as usernames, passwords, an
    * Large organizations may get trapped in different kinds of scams.
 
    * Financial loss
+
+
+[Project Design & Planning]
