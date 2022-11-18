@@ -9,7 +9,7 @@
 
 ## ****Team Members**** : 	:1st_place_medal:
    
-   * Vijayaprabu (Team Lead)
+   * Vijayaprabu(Team Lead)
    
    * Logesh
            
