@@ -25,10 +25,10 @@ There are a number of users who purchase products online and make payments throu
 
 Web phishing aims to steal private information, such as usernames, passwords, and credit card details, by way of impersonating a
 
-legitimate entity.
+   *legitimate entity.
 
-It will lead to information disclosure and property damage.
+   *It will lead to information disclosure and property damage.
 
-Large organizations may get trapped in different kinds of scams.
+   *Large organizations may get trapped in different kinds of scams.
 
-Financial loss
+   *Financial loss
