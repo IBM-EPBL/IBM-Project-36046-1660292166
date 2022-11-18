@@ -9,13 +9,13 @@
 
 ### ****Team Members**** : 	:sunglasses:
    
-   “*” Vijayaprabu
+   * Vijayaprabu
    
-   “*” Logesh
+   * Logesh
            
-   “*” Huttaratulla
+   * Huttaratulla
    
-   “*” Manimuthu
+   * Manimuthu
 
 ## ****Project Description**** :
 
