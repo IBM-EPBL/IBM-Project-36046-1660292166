@@ -39,3 +39,6 @@ Web phishing aims to steal private information, such as usernames, passwords, an
 ## [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 
 ### [Brainstorming- Idea Generation- Prioritizaation](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming-%20Idea%20Generation-%20Prioritizaation.pdf)
+### [Define Problem Statements](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Define%20Problem%20Statements.pdf)
+### [Empathy Map Canvas](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map%20Canvas.pdf)
+### [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-36046-1660292166/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey.pdf)
